@@ -32,7 +32,7 @@ As principais métricas e KPIs utilizados para medir o sucesso incluem:
 
 ## Principais Insights
 
-![Visão Geral da Análise de RH](https://github.com/krystalbrantley/hr_analytics_report/blob/main/HR%20Analytics%20Overview.png?raw=true)
+![Visão Geral da Análise de RH](https://github.com/ramoncampos/relatorio-analise-RH/blob/main/relatorio-rh-visao-geral.png?raw=true)
 
 ### Taxa de Rotatividade
 - **Taxa geral de rotatividade:** 16,1%
@@ -48,16 +48,16 @@ As principais métricas e KPIs utilizados para medir o sucesso incluem:
 
 ### Demografia
 
-![Demografia da Análise de RH](https://github.com/krystalbrantley/hr_analytics_report/blob/main/HR%20Analytics%20Demo.png?raw=true)
+![Demografia da Análise de RH](https://github.com/ramoncampos/relatorio-analise-RH/blob/main/relatorio-rh-perfil-demo.png?raw=true)
 - A maioria dos funcionários tem entre 20 e 29 anos.
 - Funcionários que se identificam como brancos possuem o maior salário médio.
 - Funcionários que se identificam como multirraciais têm o menor salário médio (US$ 106K).
 - Mulheres representam apenas 2,7% da organização.
 - A classificação gerencial e a autoavaliação de desempenho muitas vezes não estão alinhadas.
 
-![Rastreamento de Desempenho na Análise de RH](https://github.com/krystalbrantley/hr_analytics_report/blob/main/HR%20Analytics%20Performance.png?raw=true)
+![Rastreamento de Desempenho na Análise de RH](https://github.com/ramoncampos/relatorio-analise-RH/blob/main/relatorio-rh-desempenho.png?raw=true)
 
-![Rotatividade na Análise de RH](https://github.com/krystalbrantley/hr_analytics_report/blob/main/HR%20Analytics%20Attrition.png?raw=true)
+![Rotatividade na Análise de RH](https://github.com/ramoncampos/relatorio-analise-RH/blob/main/relatorio-rh-rotatividade.png?raw=true)
 
 ## Recomendações
 1. **Apoiar o Crescimento dos Funcionários:**
